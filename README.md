@@ -1,4 +1,5 @@
 # DivProject2024
+
 In file main.py:
 Train module called decision tree  on the data
 Allow user to input year:
