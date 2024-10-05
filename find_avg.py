@@ -6,7 +6,6 @@ import pandas as pd
 def Read_Unemployment_rate():
   my_df = pd.read_csv('data/unemployment_rate .csv') # stores data in my_df, each column has a coressponding header
 
-  
 # step 1: create a new column that has the avg of all the columns in each row
   month_columns = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
@@ -16,7 +15,6 @@ def Read_Unemployment_rate():
 # step 2: find the avg of the 24 years, then we will compare each avg_year to total_avg
   total_avg = my_df['Average Yearly'].mean() # avg of 23 years is 5.663
   #print('Average Unemployment Rate in 24 years:', total_avg)
-
 
 # step 3: determine if each year: recession, growth
   Status_growth_recession = []
@@ -45,3 +43,5 @@ def Read_Unemployment_rate():
   print('Recession: \n', recession_df.to_string(index=False))
 
 Read_Unemployment_rate()
+
+
