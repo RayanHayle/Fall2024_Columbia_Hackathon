@@ -1,4 +1,4 @@
-# part 1: find csv data 
+# part 1: find csv data sss
 #Part 2: analysis the data ---> summarize the past data as growth or recession based on the average.
 import csv
 import pandas as pd
