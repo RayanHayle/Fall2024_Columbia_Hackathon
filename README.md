@@ -1,4 +1,4 @@
-# DivProject2024
+# Personal Project
 
 Step 1: Gather Data:
 ---------------------
