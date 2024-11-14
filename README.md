@@ -25,7 +25,6 @@ Step 4: Train a Machine Learning Model
 
 - Use Scikit-learn to train a decision tree model using the economic data to predict whether future years will be in growth or recession.
 
-'''  
 Step 5: User input
 ---------------------
 
@@ -33,7 +32,7 @@ Step 5: User input
 
 Example
 --------
-In file main.py:
+In file main.py: 
 Train module called decision tree  on the data
 Allow user to input year:
 Input Year: 2003
