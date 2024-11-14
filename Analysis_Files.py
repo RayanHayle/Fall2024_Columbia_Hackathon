@@ -5,7 +5,7 @@ import pandas as pd
 
 def Read_Unemployment_rate():
   my_df = pd.read_csv('data/unemployment_rate .csv') # stores data in my_df, each column has a coressponding header
-
+  
 # step 1: create a new column that has the avg of all the columns in each row
   month_columns = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
