@@ -25,24 +25,11 @@ Step 4: Train a Machine Learning Model
 
 - Use Scikit-learn to train a decision tree model using the economic data to predict whether future years will be in growth or recession.
 
+'''  
 Step 5: User input
 ---------------------
 
 - Allow the user to input a starting year and predict the economic status for the next 5 years based on the trained model.
-
-Step 6: User Input and File Upload:
----------------------
-
-- Implement functionality to allow users to upload their own datasets.
-- Use Flask to handle file uploads and process the user’s data.
-- Analyze the uploaded data, mark growth/recession, and display the results visually.
-
-Step 7: Predictions for User Data:
----------------------
-- After processing the user’s data, run the same analysis (average year values) and apply the trained decision tree model to predict the future status for the next 5 years.
-
-Step 8: Host website on GitHub
----------------------
 
 Example
 --------
