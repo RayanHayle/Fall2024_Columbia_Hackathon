@@ -42,4 +42,5 @@ def Read_Unemployment_rate(): #
 
 Read_Unemployment_rate()
 
+# step 4 : how should i visualize this? using prints not good enough 
 
