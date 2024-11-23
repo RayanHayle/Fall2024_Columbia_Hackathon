@@ -1,9 +1,9 @@
 # part 1: find csv data 
-#Part 2: analysis the data ---> summarize the past data as growth or recession based on the average.
+#Part 2: analysis the data ---> summarize the past data as growth or recession based on the average. - complete by milestone 2
 import csv
 import pandas as pd
 
-def Read_Unemployment_rate():
+def Read_Unemployment_rate(): # 
   my_df = pd.read_csv('data/unemployment_rate .csv') # stores data in my_df, each column has a coressponding header
   
 # step 1: create a new column that has the avg of all the columns in each row
