@@ -1,5 +1,3 @@
-# part 1: find csv data 
-#Part 2: analysis the data ---> summarize the past data as growth or recession based on the average. - complete by milestone 2
 import csv
 import pandas as pd
 
