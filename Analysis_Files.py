@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 
+# Part 1-- analyze the data 
 def Read_Unemployment_rate(): # 
   my_df = pd.read_csv('data/unemployment_rate .csv') # stores data in my_df, each column has a coressponding header
   
@@ -42,5 +43,13 @@ def Read_Unemployment_rate(): #
 
 Read_Unemployment_rate()
 
-# step 4 : how should i visualize this? using prints not good enough 
+def Read_Bank_Investment():
+  pass
 
+
+def Read_Consumer_spending():
+  pass
+
+
+
+  
