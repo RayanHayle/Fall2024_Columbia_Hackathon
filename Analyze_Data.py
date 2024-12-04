@@ -34,13 +34,13 @@ def Read_Unemployment_rate(): #
   status_table = my_df[['Year', 'Average Yearly', 'Economic Status']].to_string(index=False) # one table
   #print(status_table)
 
-  # my df, create table, search for growth in year and Average Yearly
+'''  # my df, create table, search for growth in year and Average Yearly
   growth_df = my_df[my_df['Economic Status'] == 'Growth'][['Year', 'Average Yearly']]
   recession_df = my_df[my_df['Economic Status'] == 'Recession'][['Year','Average Yearly']] # add 'Average Yearly' to see avg ununemployment
   print('Based on Unemployment Rates')
   print('Growth: \n',  growth_df.to_string(index=False))
   print('Recession: \n', recession_df.to_string(index=False))
-
+'''
 Read_Unemployment_rate()
 
 def Read_Bank_Investment():
