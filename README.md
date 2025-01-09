@@ -19,8 +19,6 @@ Step 3: Visualizations ✅
 
 Step 4: Train a Machine Learning Model
 ---------------------
-
-- Step 1: Train a Decision Tree Classifier:
 - Advise: Use Scikit-learn to train a decision tree model using the economic data to predict whether future years will be in growth or recession.
 - Goal: compare the models prediction to the anayzeData file. If there's match then both files are accurate. This is for cross-checking. 
 
