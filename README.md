@@ -1,4 +1,4 @@
-# Hackerthon Project 
+# Hackathon Project 
 
 Step 1: Gather Data: ✅
 ---------------------
