@@ -1,4 +1,4 @@
-# Hackathon Project 
+# DivHacks: Columbia University Hackathon Fall 2024 
 
 Step 1: Gather Data: ✅
 ---------------------
