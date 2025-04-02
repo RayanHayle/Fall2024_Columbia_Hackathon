@@ -24,4 +24,4 @@ Step 4: Train a Machine Learning Model
 
 Team Work Overall:
 --------
-My team and I worked on finding the data sets the first day of the hackerthon. However, due to shortcomings I went on to do the remaining steps on my own such the  analyzation, will complete the prediction model over spring 2025. 
+My team and I worked on finding the data sets the first day of the hackerthon. However, due to shortcomings I went on to do the remaining steps on my own such the  analyzation.
