@@ -20,5 +20,6 @@ Step 3: Visualizations
 
 Team Work Overall:
 --------
-My team and I worked on finding the data sets the first day of the Hackthon.
+My team and I worked on finding the data sets the first day of the Hackthon. 
+
 However, due to shortcomings I went on to do the remaining steps (2 and 3) on my own such the  analyzation.
